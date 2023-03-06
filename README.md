@@ -29,8 +29,11 @@ Originally, we planned to power our ESP32s with lithium ion batteries. We were p
 
 Due to some safety concerns with the batteries, we ended up scrapping the batteries in favor of a board that housed all the students' ESP32s and powered them with a single battery. During the installation, we adjusted the placement of the wires to ensure the base of the structure itself wasn't conducting the current. 
 <img src="/setup.png"/>
-                     
-<img src="/installation.png"/>
+
+Here was the final result! 
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/gd8vlK4oSjU?mute=1">
+</iframe>
 
 
 

@@ -24,7 +24,7 @@ Explore the example code to familiarize yourself with the syntax. Be sure to sel
 
 ## Powering the Installation
 
-Originally, we planned to power our ESP32s with lithium ion batteries. We were provided JST connectors, and we were able to solder the connectors to the power and groud cables of the battery. 
+Originally, we planned to power our ESP32s with lipo batteries. We were provided JST connectors, and we were able to solder the connectors to the power and groud cables of the battery. 
 
 <img src="/battery.png" alt="soldered battery" style="height: 300px;"/>
 

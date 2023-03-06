@@ -25,14 +25,14 @@ Explore the example code to familiarize yourself with the syntax. Be sure to sel
 ## Powering the Installation
 
 Originally, we planned to power our ESP32s with lithium ion batteries. We were provided JST connectors, and we were able to solder the connectors to the power and groud cables of the battery. 
-<img src="/battery.png" alt="soldered battery"/>
+<img src="/battery.png" alt="soldered battery" style="height: 300px; width:300px;"/>
 
 Due to some safety concerns with the batteries, we ended up scrapping the batteries in favor of a board that housed all the students' ESP32s and powered them with a single battery. During the installation, we adjusted the placement of the wires to ensure the base of the structure itself wasn't conducting the current. 
-<img src="/setup.HEIC"/>
+<img src="/setup.png" alt="in class setup" style="height: 300px; width:300px;"/>
 
 Here was the final result! 
 
-<img src="/installation.png"/>
+<img src="/installation.jpg" alt="esp32s plugged in and turned on to the board" style="height: 300px; width:300px;"/>
 
 
 

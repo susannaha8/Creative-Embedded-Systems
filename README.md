@@ -19,12 +19,12 @@ To finish setup, go to /Arduino/libraries/TFT_eSPI/User_Setup_Select.h. Comment 
 
 ## Flashing Code to the Device
 
-Explore the example code to familiarize yourself with the syntax. Be sure to select examples from the TFT_eSPI custom library with display size 160 x 128. Each example has code that runs in a loop, and you can time certain displays by setting delay(). In my code, I used `fillScreen()`, `setCursor()`, `setTextColor()`, and `println()`. For this assignment, to create generative art that has some degree of randomness, I used the `rand()` function. Once your code is ready, plug your ESP32 into your computer, go to "Tools" and select the correct "Port", and upload your code to your device!
+Explore the example code to familiarize yourself with the syntax. Be sure to select examples from the TFT_eSPI custom library with display size 160 x 128. Each example has code that runs in a loop, and you can time certain displays by setting `delay()`. In my code, I used `fillScreen()`, `setCursor()`, `setTextColor()`, and `println()`. For this assignment, to create generative art that has some degree of randomness, I used the `rand()` function. Once your code is ready, plug your ESP32 into your computer, go to "Tools" and select the correct "Port", and upload your code to your device!
 
 
 ## Powering the Installation
 
-Originally, we planned to power our ESP32s with lipo batteries. We were provided JST connectors, and we were able to solder the connectors to the power and groud cables of the battery. 
+Originally, we planned to power our ESP32s with lipo batteries. We were provided JST connectors, and we were able to solder the connectors to the power and ground cables of the battery. 
 
 <img src="/battery.png" alt="soldered battery" style="height: 300px;"/>
 

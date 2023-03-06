@@ -31,10 +31,8 @@ Due to some safety concerns with the batteries, we ended up scrapping the batter
 <img src="/setup.png"/>
 
 Here was the final result! 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/gd8vlK4oSjU?mute=1">
-</iframe>
 
+<img src="/installation.png"/>
 
 
 
